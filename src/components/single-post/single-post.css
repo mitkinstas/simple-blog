@@ -1,0 +1,27 @@
+.single-post {
+	max-width: 800px;
+	margin: auto;
+	padding: 40px 0;
+}
+
+.single-post__back {
+	padding: 15px 25px;
+	background-color: #ccc;
+	color: #222;
+	display:inline-block;
+	margin-bottom: 40px;
+	text-decoration: none;
+}
+
+.single-post__title {
+	display: block;
+	font-size: 26px;
+	color: #222;
+	margin-bottom: 16px;
+	text-decoration: none;
+}
+
+.single-post__description {
+	font-size: 16px;
+	color: #222;
+}

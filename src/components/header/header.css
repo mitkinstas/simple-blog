@@ -1,0 +1,21 @@
+.header {
+	background-color: #222;
+	line-height: 60px;
+}
+
+.header__content {
+	max-width: 800px;
+	margin: auto;
+	color: #fff;
+	font-style: italic;
+	font-size: 20px;
+}
+
+.header__logo {
+	color: #fff;
+	text-decoration: none;
+}
+
+.header__logo:hover {
+	text-decoration: underline;
+}
