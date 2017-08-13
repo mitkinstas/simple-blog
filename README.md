@@ -2,7 +2,8 @@
 
 ## Quick start
 
-### `npm start`
+#### `npm install`
+#### `npm start`
 
 ```
 simple-blog
